@@ -1,3 +1,12 @@
+
+# Welcome to the G24 Fogorow HUB!
+> In here we try to unlock the bootloader for g24.
+> Since Motorolas a pain.
+**This Documentation will have all latest info in process of unlocking the G24 (fogorow).
+
+
+
+
 # G24 Writeable Partitions
 preloader	NO	
 pgpt	NO	
